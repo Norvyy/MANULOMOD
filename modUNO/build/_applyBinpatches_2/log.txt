@@ -2,7 +2,7 @@ Java Launcher: C:\Program Files\Java\jdk-21\bin\java.exe
 Arguments: '--clean, C:\Users\utente\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\joined\1.20.6-20240429.135109\joined-1.20.6-20240429.135109-srg.jar, --output, C:\Users\utente\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.20.6-50.1.12\forge-1.20.6-50.1.12-binpatched.jar, --apply, C:\Users\utente\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.20.6-50.1.12\forge-1.20.6-50.1.12-binpatches.lzma'
 Classpath:
  - C:\Users\utente\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\binarypatcher\1.2.0\binarypatcher-1.2.0-fatjar.jar
-Working directory: C:\Users\utente\Desktop\MC\PROGETTI\modUNO\build\_applyBinpatches_2
+Working directory: C:\Users\utente\Desktop\MC\PROGETTI\MANULOMOD\modUNO\build\_applyBinpatches_2
 Main class: net.minecraftforge.binarypatcher.ConsoleTool
 ====================================
 Applying: 
